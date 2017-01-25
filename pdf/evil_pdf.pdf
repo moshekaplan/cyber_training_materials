@@ -1,0 +1,90 @@
+%PDF-1.1
+
+1 0 obj
+<<
+ /Type /Catalog
+ /Outlines 2 0 R
+ /Pages 3 0 R
+ /#4fpenAction 8 0 R
+>>
+endobj
+
+2 0 obj
+<<
+ /Type /Outlines
+ /Count 0
+>>
+endobj
+
+3 0 obj
+<<
+ /Type /Pages
+ /Kids [4 0 R]
+ /Count 1
+>>
+endobj
+
+4 0 obj
+<<
+ /Type /Page
+ /Parent 3 0 R
+ /MediaBox [0 0 612 792]
+ /Contents 5 0 R
+ /Resources 
+ << /ProcSet 6 0 R
+    /Font << /F1 7 0 R >>
+ >>
+>>
+endobj
+
+5 0 obj
+<< /Length 46 >>
+stream
+BT
+/F1 24 Tf
+100 700 Td
+(Hello World)Tj
+ET
+endstream
+endobj
+
+6 0 obj
+[/PDF /Text]
+endobj
+
+7 0 obj
+<<
+ /Type /Font
+ /Subtype /Type1
+ /Name /F1
+ /BaseFont /Helvetica
+ /Encoding /MacRomanEncoding
+>>
+endobj
+
+8 0 obj
+<<
+    /#4aS (\141\160\160\56\141\154\145\162\164\50\42\103\157\156\163\164\141\156\164\40\126\151\147\151\154\141\156\143\145\41\42\51\73)
+    /S /#4aavaScript
+>>
+endobj
+
+xref
+0 9
+0000000000 65535 f
+0000000012 00000 n
+0000000111 00000 n
+0000000167 00000 n
+0000000236 00000 n
+0000000403 00000 n
+0000000507 00000 n
+0000000540 00000 n
+0000000664 00000 n
+trailer
+<<
+ /Size 9
+ /Root 1 0 R
+>>
+startxref
+851
+%%EOF
