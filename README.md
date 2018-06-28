@@ -1,2 +1,2 @@
-# training_materials
-Training materials I've written.
+# cyber_training_materials
+Cybersecurity training materials I've written.
